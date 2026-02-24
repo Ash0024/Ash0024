@@ -27,8 +27,7 @@ An end-to-end BI project I built as part of my Data Analyst training. Designed a
 ## A bit about me
 
 - 🎯 Looking for opportunities as a **Data Analyst / Business Analyst**
-- 📚 Currently preparing for **PL-300 (Power BI)** certification
-- 💬 Always open to feedback, collaboration, or just a conversation about data
+  
 
 ---
 
