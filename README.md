@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ashwin 👋
 
-<!--
-**Ash0024/Ash0024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst turning raw data into business insights using SQL, Power BI, Tableau, and Excel.
 
-Here are some ideas to get you started:
+## What I do
+- Build interactive dashboards for [banking / retail / finance — whatever fits]
+- Write SQL queries for data extraction, cleaning, and aggregation
+- Translate raw datasets into KPIs stakeholders actually use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **[Bank Analytics Dashboard](https://github.com/Ash0024/Bank-Analytics-Project)** — Analyzed customer & financial data across SQL/Power BI/Tableau/Excel to surface revenue trends and KPIs
+- **[Stock Market Analysis](https://github.com/Ash0024/Stock-Market-Analysis)** — Power BI dashboard tracking stock performance and trend indicators
+
+## Connect
+[LinkedIn](https://linkedin.com/in/ashwinn2)
